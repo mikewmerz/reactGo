@@ -6,3 +6,5 @@ public
 compiled
 *.swp
 .vscode
+config\secret.js
+config\secrets.js
